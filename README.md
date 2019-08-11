@@ -1,5 +1,7 @@
 # todolist
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mazrean/TODO.svg)](https://greenkeeper.io/)
+
 ## Project setup
 ```
 npm install
